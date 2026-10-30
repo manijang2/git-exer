@@ -1,3 +1,4 @@
 - created
 - stash 2
 - added 1
+- stash 1
