@@ -4,3 +4,4 @@
 - added 1
 - stash 1
 - develop rebase commit 1
+- develop rebase commit 2
